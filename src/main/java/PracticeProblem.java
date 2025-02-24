@@ -35,13 +35,11 @@ public class PracticeProblem {
 		return odd % 2 != 0;
 	}
 
-	public static boolean isPositive(int postive){
+	public static boolean isPositive(int positive){
 		return positive > 0;
 	}
 
 	public static boolean isNegative(int negative){
 		return negative < 0;
 	}
-
-
 }
